@@ -6,7 +6,7 @@ canvas.height = 576
 
 c.fillRect(0, 0, canvas.width, canvas.height) //sets the canvas differenly //(0,0 is a coordinate)
 
-const gravity = 0.2
+const gravity = 0.2 //for falling
 
 class Sprite { 
     constructor({position, velocity}) {
