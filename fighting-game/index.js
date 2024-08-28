@@ -245,7 +245,7 @@ window.addEventListener('keyup', (event) => {
         case 'ArrowUp':
             enemyKeys.ArrowUp.pressed = false  
             break
-        
+        //lol this is hard
         
     }
 
